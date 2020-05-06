@@ -1,0 +1,14 @@
+c
+b,e
+d
+a,b,c
+g
+d,f
+e,g
+a,c
+c
+a,c,d
+d
+c
+c
+d
